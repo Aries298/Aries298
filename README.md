@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aries298
-- 👀 I’m interested in automatization, data analysis, machine learning and liguistics
+- 👀 I’m interested in automatization, data analysis, machine learning and linguistics
 - 🌱 I’m currently learning Python and Machine Learning
 
 My Kaggle profile: https://www.kaggle.com/rafal
